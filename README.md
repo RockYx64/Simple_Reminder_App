@@ -15,8 +15,8 @@ A lightweight Android app built with **Kotlin** and **Material Design**, featuri
 ## 🛠 Tech Stack
 - **Language:** Kotlin  
 - **UI:** XML + Material Design  
-- **Architecture:** MVVM (planned)  
-- **Build:** Gradle, compileSdk 36
+- **Architecture:** MVP (planned)  
+- **Build:** Gradle, compileSdk 35
 
 ---
 
