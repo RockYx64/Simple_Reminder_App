@@ -7,6 +7,16 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+    <com.google.android.material.appbar.MaterialToolbar
+        android:id="@+id/main_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorSurface"
+        android:title="Simple Reminder"
+        android:titleTextColor="?attr/colorOnSurface"
+        app:titleCentered="false" />
+
+
     <!-- Hier erscheint der jeweilige Tab-Inhalt -->
     <androidx.fragment.app.FragmentContainerView
         android:id="@+id/nav_host_fragment"
