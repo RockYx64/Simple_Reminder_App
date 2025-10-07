@@ -20,8 +20,4 @@ A lightweight Android app built with **Kotlin** and **Material Design**, featuri
 
 ---
 
-## ⚙️ Run the App
-1. Clone the repo  
-   ```bash
-   git clone https://github.com/RockYx64/Simple_Reminder_App.git
-# Simple_Reminder_App
+
