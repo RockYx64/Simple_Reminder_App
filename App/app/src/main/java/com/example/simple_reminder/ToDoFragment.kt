@@ -1,0 +1,6 @@
+package com.example.reminderapp.ui
+
+import androidx.fragment.app.Fragment
+import com.example.simple_reminder.R
+
+class TodoFragment : Fragment(R.layout.fragment_todo)

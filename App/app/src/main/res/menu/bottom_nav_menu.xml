@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_reminder"
+        android:icon="@drawable/ic_reminder"
+        android:title="Reminder" />
+
+    <item
+        android:id="@+id/nav_todo"
+        android:icon="@drawable/ic_todo"
+        android:title="To-Dos" />
+
+    <item
+        android:id="@+id/nav_settings"
+        android:icon="@drawable/ic_settings"
+        android:title="Einstellungen" />
+</menu>
